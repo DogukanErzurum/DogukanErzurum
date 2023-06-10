@@ -28,5 +28,5 @@
 
 
 
-![snake gif](https://github.com/DogukanErzurum/DogukanErzurum/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/sevimozsoy/sevimozsoy/blob/output/github-contribution-grid-snake.svg)
 
