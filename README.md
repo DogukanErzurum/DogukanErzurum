@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/do%C4%9Fukan-erzurum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Doğukan Erzurum" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/do%C4%9Fukan-erzurum-4b9102244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Doğukan Erzurum" height="30" width="40" /></a>
 <a href="https://instagram.com/dogukanerzurum?igshid=MzNlNGNkZWQ4Mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Doğukan Erzurum" height="30" width="40" /></a>
 </p>
 
