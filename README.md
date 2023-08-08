@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DogukanErzurum" alt="DogukanErzurum" /></a> </p>
 
-- 🔭 I’m currently working on [EasyCashIdentityProject](https://github.com/DogukanErzurum/EasyCashIdentityProject.git)
+- 🔭 I’m currently working on [EasyCashIdentityProject](https://github.com/DogukanErzurum/EasyCashIdentityProject.git) and [Netflix-Clone](https://github.com/DogukanErzurum/netflix-clone.git)
 
 - 🌱 I’m currently learning Database,SQL,Linux,Cyber Security
 
