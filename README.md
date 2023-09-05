@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning Database,SQL,Linux,Cyber Security
 
+- 🤝 I'm finished projects that I think will be useful : [Traversal Project](https://github.com/DogukanErzurum/TraversalCoreProje.git) and [Netflix Clone](https://github.com/DogukanErzurum/netflix-clone.git)
+
 - 💬 You can ask me questions about database and SQL.
 
 - 📫 How to reach me: dogukanerzurum00@gmail.com 
