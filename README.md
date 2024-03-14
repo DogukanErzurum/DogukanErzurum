@@ -5,11 +5,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DogukanErzurum" alt="DogukanErzurum" /></a> </p>
 
-- 🔭 I’m currently working on [Ticari Otomasyon](https://github.com/DogukanErzurum/Ticari-Otomasyon.git), [SaaS-AI](https://github.com/DogukanErzurum/ai-saas.git) and [Airbnb-Clone](https://github.com/DogukanErzurum/airbnb-clone.git)
+- 🔭 I’m currently working on [Ticari Otomasyon](https://github.com/DogukanErzurum/Ticari-Otomasyon.git), [SaaS-AI](https://github.com/DogukanErzurum/ai-saas.git)
 
 - 🌱 I’m currently learning Database,SQL,Linux,Cyber Security
 
-- 🤝 I'm finished projects that I think will be useful : [Traversal Project](https://github.com/DogukanErzurum/TraversalCoreProje.git) and [Netflix Clone](https://github.com/DogukanErzurum/netflix-clone.git)
+- 🤝 I'm finished projects that I think will be useful : [Traversal Project](https://github.com/DogukanErzurum/TraversalCoreProje.git), [Netflix Clone](https://github.com/DogukanErzurum/netflix-clone.git) and [AirBnb](https://github.com/DogukanErzurum/airbnb-clone.git)
 
 - 💬 You can ask me questions about database and SQL.
 
