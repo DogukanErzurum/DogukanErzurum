@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doğukan Erzurum</h1>
-<h3 align="center">Recep Tayyip Erdoğan üniversitesi bilgisayar mühendisliği 3. sınıf öğrencisiyim. Kendimi otomasyon sistemleri ve dinamik web siteleri üzerine geliştirdim. database ve SQL konusunda yeterli bilgiye sahibim. Şu anda kendimi boş zamanlarda Savunma Sanayisi teknolojileri üzerine geliştirmekteyim. Öğrenmeye açığım ve yeni teknolojileri yakından takip ediyorum.</h3>
+<h3 align="center">Recep Tayyip Erdoğan üniversitesi bilgisayar mühendisliği 4. sınıf öğrencisiyim. Kendimi Ağ Mühendisliği ve dinamik web siteleri üzerine geliştirdim. Modern Web Geliştiriciliği ve Network konusunda yeterli bilgi birikimine sahibim. Şu anda kendimi boş zamanlarda Savunma Sanayisi teknolojileri üzerine geliştirmekteyim. Öğrenmeye açığım ve yeni teknolojileri yakından takip ediyorum.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DogukanErzurum&label=Profile%20views&color=0e75b6&style=flat" alt="DogukanErzurum" /> </p>
 
